@@ -20,6 +20,7 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 
         buildConfigField("String", "BASE_URL", "\"https://story-api.dicoding.dev/v1/\"")
+        resValue("string", "MAP_KEY", "AIzaSyBHnoUTRArNdWQR0Yfq2hOxMB3mpQJSP_4")
     }
 
     buildTypes {
