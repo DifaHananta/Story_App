@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="logout">LOGOUT</string>
+    <string name="desc_register">Don"'"t have an account? " "</string>
+    <string name="desc_login">Already have an account? " "</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="description">Description</string>
+    <string name="email">Email</string>
+    <string name="register_success">Register success</string>
+    <string name="register_failed">Register failed " "</string>
+    <string name="login_success">Login success</string>
+    <string name="login_failed">Login failed " "</string>
+    <string name="add_desc">Add description</string>
+    <string name="add_story">ADD STORY</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="add_desc_here">Add description here..</string>
+    <string name="upload_success">Upload success</string>
+    <string name="upload_failed">Upload Failed " "</string>
+    <string name="empty_desc">Please fill desc</string>
+    <string name="logout_success">Logout success</string>
+    <string name="map">MAP</string>
+    <string name="retry">RETRY</string>
+    <string name="timeout">TIME OUT</string>
+</resources>

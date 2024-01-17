@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="login">MASUK</string>
+    <string name="register">DAFTAR</string>
+    <string name="logout">KELUAR</string>
+    <string name="desc_register">Tidak punya akun? " "</string>
+    <string name="desc_login">Sudah memiliki akun? " "</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="description">Deskripsi</string>
+    <string name="email">Email</string>
+    <string name="register_success">Berhasil mendaftar</string>
+    <string name="register_failed">Gagal mendaftar " "</string>
+    <string name="login_success">Berhasil masuk</string>
+    <string name="login_failed">Gagal masuk " "</string>
+    <string name="add_desc">Tambah deskripsi</string>
+    <string name="add_story">TAMBAH STORY</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="add_desc_here">Tambahkan deskripsi di sini..</string>
+    <string name="upload_success">Upload sukses</string>
+    <string name="upload_failed">Upload Gagal " "</string>
+    <string name="empty_desc">Silakan isi deskripsi</string>
+    <string name="logout_success">Logout sukses</string>
+    <string name="map">PETA</string>
+    <string name="retry">ULANGI</string>
+    <string name="timeout">WAKTU HABIS</string>
+</resources>
